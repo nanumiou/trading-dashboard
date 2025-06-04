@@ -118,5 +118,55 @@
         "time": "10:11:50",
         "pnl": 0,
         "held_stocks_count": 0
+    },
+    {
+        "time": "10:12:21",
+        "pnl": 0,
+        "held_stocks_count": 0
+    },
+    {
+        "time": "10:12:52",
+        "pnl": 0,
+        "held_stocks_count": 0
+    },
+    {
+        "time": "10:13:22",
+        "pnl": 0,
+        "held_stocks_count": 0
+    },
+    {
+        "time": "10:13:52",
+        "pnl": 0,
+        "held_stocks_count": 0
+    },
+    {
+        "time": "10:14:23",
+        "pnl": 0,
+        "held_stocks_count": 0
+    },
+    {
+        "time": "10:14:53",
+        "pnl": 0,
+        "held_stocks_count": 0
+    },
+    {
+        "time": "10:15:24",
+        "pnl": 0,
+        "held_stocks_count": 0
+    },
+    {
+        "time": "10:15:54",
+        "pnl": 0,
+        "held_stocks_count": 0
+    },
+    {
+        "time": "10:16:24",
+        "pnl": 0,
+        "held_stocks_count": 0
+    },
+    {
+        "time": "10:16:55",
+        "pnl": 0,
+        "held_stocks_count": 0
     }
 ]
