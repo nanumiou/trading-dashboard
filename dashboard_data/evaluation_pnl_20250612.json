@@ -1503,5 +1503,35 @@
         "time": "11:54:24",
         "pnl": -121024,
         "held_stocks_count": 10
+    },
+    {
+        "time": "11:54:54",
+        "pnl": -131734,
+        "held_stocks_count": 10
+    },
+    {
+        "time": "11:55:24",
+        "pnl": -141772,
+        "held_stocks_count": 10
+    },
+    {
+        "time": "11:55:55",
+        "pnl": -135594,
+        "held_stocks_count": 10
+    },
+    {
+        "time": "11:56:26",
+        "pnl": -125374,
+        "held_stocks_count": 10
+    },
+    {
+        "time": "11:56:56",
+        "pnl": -110134,
+        "held_stocks_count": 10
+    },
+    {
+        "time": "11:57:27",
+        "pnl": -90318,
+        "held_stocks_count": 10
     }
 ]
