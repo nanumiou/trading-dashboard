@@ -3318,5 +3318,25 @@
         "time": "14:59:03",
         "pnl": -56918,
         "held_stocks_count": 10
+    },
+    {
+        "time": "14:59:33",
+        "pnl": -57950,
+        "held_stocks_count": 10
+    },
+    {
+        "time": "15:00:04",
+        "pnl": -48185,
+        "held_stocks_count": 10
+    },
+    {
+        "time": "15:00:43",
+        "pnl": -11636,
+        "held_stocks_count": 2
+    },
+    {
+        "time": "15:01:01",
+        "pnl": 0,
+        "held_stocks_count": 2
     }
 ]
